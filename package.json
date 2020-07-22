@@ -1,0 +1,20 @@
+{
+  "name": "wl-calculador-periodo",
+  "version": "1.0.0",
+  "description": "Calculador de período datas ",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Wellerson1/wl-calculador-periodo.git"
+  },
+  "keywords": [],
+  "author": "Wellerson Gomes",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Wellerson1/wl-calculador-periodo/issues"
+  },
+  "homepage": "https://github.com/Wellerson1/wl-calculador-periodo#readme"
+}
